@@ -3,7 +3,7 @@ function AboutPage() {
         <section>
             <h1> Introduction to Azul</h1>
             <p>
-                Hello! My name is Azul Rangel, and I am a first year at Yale College. I intend to major
+                Hello! My full name is Azul Fernanda Rangel, and I am a first year at Yale College. I intend to major
                 in Computer Science and recieve certificates in Computing, Culture, and Society as well as 
                 Human Rights. I am originally based in Everett, WA but currently reside in New Haven, CT 
                 in order to complete my Bachelor's in Computer Science.
